@@ -32,10 +32,27 @@
     color: #200dc4;
 }
 
+.sampson:hover {
+    font-family: "Garamon", Times, serif;
+    font-size: 13pt;
+    color: #200dc4;
+    text-shadow: 2px 3px 5px green;
+    border-style: dotted;
+}
+
+
 .gregory {
     font-family: "Garamon", Times, serif;
     font-size: 13pt;
     color: rgb(214, 53, 24);
+}
+
+.gregory:hover {
+    font-family: "Garamon", Times, serif;
+    font-size: 13pt;
+    color: rgb(214, 53, 24);
+    text-shadow: 2px 3px 5px green; 
+    border-style: dashed;
 }
 
 table {
