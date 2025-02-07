@@ -1,0 +1,39 @@
+.speach {
+    font-family: "Garamon", Times, serif;
+    font-size: 13pt;
+    color: black;
+}
+
+.stage-direction:hover {
+    font-family: "Courier New", Times, serif;
+    font-size: 12pt;
+    color: black;
+    background-color: lightgrey;
+    
+}
+
+.stage-direction:hover {
+    font-family: "Courier New", Times, serif;
+    font-size: 12pt;
+    color: lightgrey;
+    background-color: #00b7ff;
+}
+
+
+.name {
+    font-family: "Garamon", Times, serif;
+    font-size: 15pt;
+    color: black;
+}
+
+.sampson {
+    font-family: "Garamon", Times, serif;
+    font-size: 13pt;
+    color: #200dc4;
+}
+
+.gregory {
+    font-family: "Garamon", Times, serif;
+    font-size: 13pt;
+    color: rgb(214, 53, 24);
+}
